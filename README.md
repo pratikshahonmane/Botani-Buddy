@@ -5,10 +5,10 @@
 
 
 ## ✨ Features
-- 📸 Image upload (file/base64) with loading states
-- 🌍 Localized care: sunlight, watering, pests (neem oil), monsoon tips
-- 💊 Medicinal uses, advantages/disadvantages
-- 📱 Mobile-responsive for field use
+- Image upload (file/base64) with loading states
+-  Localized care: sunlight, watering, pests (neem oil), monsoon tips
+-  Medicinal uses, advantages/disadvantages
+-  Mobile-responsive for field use
 
 ## 🏗️ Architecture
 
