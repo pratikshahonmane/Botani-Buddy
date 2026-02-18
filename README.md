@@ -3,7 +3,6 @@
 
 **Upload plant photos → Get instant ID, Hindi/Marathi names, Pune gardening tips, medicinal uses.** Built for Indian gardeners with React + Node.js + Perplexity API.
 
-[![Plant Demo](demo-screenshot.png)](https://your-deployed-link.com)
 
 ## ✨ Features
 - 📸 Image upload (file/base64) with loading states
