@@ -12,20 +12,13 @@
 
 ## 🏗️ Architecture
 
-```mermaid
-graph TD
+```mermaid graph TD
     A[User uploads image] --> B[React Frontend]
     B --> C[Axios POST /api/plant-info]
     C --> D[Node.js/Express Backend]
     D --> E[Perplexity API]
     E --> F[Plant analysis JSON]
     F --> D --> B --> G[Display: गुलाब care tips]
-| Frontend           | Backend         | APIs                     |
-| ------------------ | --------------- | ------------------------ |
-| React 18           | Node.js/Express | Perplexity Vision        |
-| Axios              | dotenv/CORS     | .env API key             |
-| useState/useEffect | multer uploads  | JSON structured response |
-
 
 **Project Structure
 text
